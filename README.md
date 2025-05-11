@@ -15,9 +15,8 @@ Sea Monster Crowdfunding helps indie game developers get the money they need to 
 
 ## See It In Action
 
-![Project Demo](assets/walkthrough.gif)
+![Project Demo](https://imgur.com/a/kwRWTRO.gif)
 
-*I'll replace this with my actual demo before submitting!*
 
 ## How To Submit
 
@@ -32,11 +31,9 @@ Since this is a course project, here's what I need to do:
 
 ## Running It Locally
 
-Super simple:
 1. Clone the repo
 2. Open index.html in any browser
-3. That's it!
 
 ## Built With
 
-Plain HTML, CSS, and vanilla JavaScript - keeping it old school!
+Plain HTML, CSS, and JavaScript
