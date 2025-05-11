@@ -1,53 +1,42 @@
-# WEB102 Prework - *Name of App Here*
+# Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Hey there! This is my prework project for WEB102 - a simple web app for Sea Monster's game crowdfunding platform.
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+## What This Project Does
 
-Time spent: **X** hours spent in total
+Sea Monster Crowdfunding helps indie game developers get the money they need to create awesome games. This site shows stats about their funding efforts and lets you browse through the games they've supported.
 
-## Required Features
+## Features I Built
 
-The following **required** functionality is completed:
+- Stats dashboard showing total contributions and funding amounts
+- Leaderboard highlighting the most successful crowdfunded games
+- Interactive filters to sort games by funding status
+- Mobile-friendly design that works on phones and tablets
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+## See It In Action
 
-The following **optional** features are implemented:
+![Project Demo](assets/walkthrough.gif)
 
-* [ ] List anything else that you can get done to improve the app functionality!
+*I'll replace this with my actual demo before submitting!*
 
-## Video Walkthrough
+## How To Submit
 
-Here's a walkthrough of implemented features:
+Since this is a course project, here's what I need to do:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+1. Finish all the required challenges
+2. Update this README with:
+   - My completed features
+   - A GIF or video showing how the site works
+3. Push everything to GitHub
+4. Submit the link
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+## Running It Locally
 
-## Notes
+Super simple:
+1. Clone the repo
+2. Open index.html in any browser
+3. That's it!
 
-Describe any challenges encountered while building the app.
+## Built With
 
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Plain HTML, CSS, and vanilla JavaScript - keeping it old school!
